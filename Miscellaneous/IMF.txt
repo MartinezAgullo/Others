@@ -1,0 +1,188 @@
+Afghanistan;599.994
+Albania;3995.383
+Algeria;4318.135
+Angola;4100.315
+Antigua and Barbuda;14414.302
+Argentina;13588.846
+Armenia;3534.86
+Australia;50961.865
+Austria;43724.031
+Azerbaijan;5739.433
+The Bahamas;23902.805
+Bahrain;23509.981
+Bangladesh;1286.868
+Barbados;15773.555
+Belarus;5749.119
+Belgium;40106.632
+Belize;4841.735
+Benin;780.063
+Bhutan;2843.402
+Bolivia;2886.231
+Bosnia and Herzegovina;4088.212
+Botswana;6040.957
+Brazil;8669.998
+Brunei Darussalam;28236.64
+Bulgaria;6831.661
+Burkina Faso;614.5
+Burundi;305.783
+Cabo Verde;3038.511
+Cambodia;1168.036
+Cameroon;1232.423
+Canada;43331.961
+Central African Republic;334.87
+Chad;941.903
+Chile;13340.905
+China;7989.72
+Colombia;6083.51
+Comoros;736.348
+Democratic Republic of the Congo;475.916
+Republic of Congo;2032.267
+Costa Rica;10936.243
+C?te d'Ivoire;1314.678
+Croatia;11572.905
+Cyprus;22587.49
+Czech Republic;17256.918
+Denmark;52114.165
+Djibouti;1788.363
+Dominica;7030.145
+Dominican Republic;6755.736
+Ecuador;6070.951
+Egypt;3740.249
+El Salvador;4040.317
+Equatorial Guinea;11762.386
+Eritrea;694.753
+Estonia;17288.083
+Ethiopia;686.593
+Fiji;5373.633
+Finland;41973.988
+France;37675.006
+Gabon;7735.939
+The Gambia;450.859
+Georgia;3788.624
+Germany;40996.511
+Ghana;1340.416
+Greece;18064.288
+Grenada;8936.578
+Guatemala;3929.081
+Guinea;542.417
+Guinea-Bissau;594.94
+Guyana;4125.021
+Haiti;804.564
+Honduras;2406.615
+Hong Kong SAR;42389.63
+Hungary;12239.894
+Iceland;50854.583
+India;1617.309
+Indonesia;3362.357
+Islamic Republic of Iran;4877.069
+Iraq;4819.487
+Ireland;51350.744
+Israel;35343.336
+Italy;29866.581
+Jamaica;4948.018
+Japan;32485.545
+Jordan;5513.009
+Kazakhstan;9795.629
+Kenya;1388.45
+Kiribati;1427.619
+Korea;27195.197
+Kosovo;0
+Kuwait;29363.027
+Kyrgyz Republic;1112.81
+Lao P.D.R.;1778.713
+Latvia;13618.569
+Lebanon;11236.793
+Lesotho;1051.606
+Liberia;473.636
+Libya;6058.671
+Lithuania;14210.28
+Luxembourg;101994.093
+FYR Macedonia;4786.84
+Madagascar;401.771
+Malawi;354.275
+Malaysia;9556.774
+Maldives;8999.971
+Mali;801.844
+Malta;22734.233
+Marshall Islands;3355.547
+Mauritania;1282.331
+Mauritius;9218.428
+Mexico;9009.28
+Micronesia;3072.685
+Moldova;1804.685
+Mongolia;3951.906
+Montenegro;6489.101
+Morocco;3078.593
+Mozambique;534.879
+Myanmar;1291.963
+Namibia;5776.903
+Nepal;751.12
+Netherlands;43603.115
+New Zealand;37044.891
+Nicaragua;1949.232
+Niger;405.213
+Nigeria;2742.861
+Norway;74822.106
+Oman;15232.961
+Pakistan;1449.978
+Palau;16070.421
+Panama;13012.562
+Papua New Guinea;2084.713
+Paraguay;4009.567
+Peru;6021.104
+Philippines;2858.144
+Poland;12495.334
+Portugal;19121.592
+Qatar;76576.08
+Romania;8906.296
+Russia;9054.914
+Rwanda;731.512
+Samoa;4334.217
+San Marino;49846.896
+Sao Tome and Principe;1568.968
+Saudi Arabia;20812.586
+Senegal;913.024
+Serbia;5119.757
+Seychelles;14940.706
+Sierra Leone;659.438
+Singapore;52887.77
+Slovak Republic;15991.736
+Slovenia;20732.482
+Solomon Islands;1952.481
+South Africa;5694.572
+South Sudan;220.86
+Spain;25864.721
+Sri Lanka;3889.411
+St. Kitts and Nevis;16109.707
+St. Lucia;8191.984
+St. Vincent and the Grenadines;6882.286
+Sudan;2175.397
+Suriname;9305.687
+Swaziland;3139.664
+Sweden;49866.266
+Switzerland;80675.308
+Taiwan Province of China;22287.562
+Tajikistan;922.072
+Tanzania;941.804
+Thailand;5742.282
+Timor-Leste;2244.307
+Togo;569.435
+Tonga;3972.741
+Trinidad and Tobago;18085.759
+Tunisia;3922.653
+Turkey;9437.372
+Turkmenistan;6622.414
+Tuvalu;3014.63
+Uganda;620.213
+Ukraine;2125.426
+United Arab Emirates;36060.015
+United Kingdom;43770.688
+United States;55805.204
+Uruguay;15748.192
+Uzbekistan;2120.778
+Vanuatu;2847.113
+Venezuela;7744.746
+Vietnam;2088.344
+Yemen;1302.94
+Zambia;1350.151
+Zimbabwe;1064.35
