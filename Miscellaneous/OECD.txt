@@ -1,0 +1,30 @@
+Denmark;7.5
+Estonia;5.6
+Finland;7.4
+France;6.5
+Germany;7.0
+Greece;4.8
+Hungary;4.9
+Iceland;7.5
+Ireland;7.0
+Israel;7.4
+Italy;6.0
+Japan;5.9
+Korea;5.8
+Luxembourg;6.9
+Mexico;6.7
+Netherlands;7.3
+New Zealand;7.3
+Norway;7.4
+Poland;5.8
+Portugal;5.1
+Slovak Republic;6.1
+Slovenia;5.7
+Spain;6.5
+Sweden;7.2
+Switzerland;7.5
+Turkey;5.6
+United Kingdom;6.8
+United States;7.2
+Brazil;7.0
+Russia;6.0
