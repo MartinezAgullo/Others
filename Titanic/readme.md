@@ -10,13 +10,15 @@ The datasets have been obtained from [Kaggle](https://www.kaggle.com/c/titanic/o
 
 
 ## With R
-This is my first contact with R and I am usng Rstudio
+This is my first contact with R and, to make it esasier, I am using Rstudio and rattle
 ```r
 library(RGtk2)
 library(rattle)
 library(readr)
 Titanic_train <- read_csv("C:/Users/$USER$/Titanic_train.csv")
 View(Titanic_train)
-```
+rattle()
+crs$dataset <- Titanic_train
+``'
 
 ## With Python
