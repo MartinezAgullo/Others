@@ -19,6 +19,6 @@ Titanic_train <- read_csv("C:/Users/$USER$/Titanic_train.csv")
 View(Titanic_train)
 rattle()
 crs$dataset <- Titanic_train
-``'
+```
 
 ## With Python
